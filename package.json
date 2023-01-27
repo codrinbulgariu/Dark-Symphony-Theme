@@ -12,7 +12,7 @@
     "type": "git",
     "url": "https://github.com/codrinbulgariu/Dark-Symphony-Theme"
   },
-  "icon": "images/logo-daydreamer.png",
+  "icon": "media/symphony-logo.png",
   "license": "MIT",
   "engines": {
     "vscode": "^1.74.0"
